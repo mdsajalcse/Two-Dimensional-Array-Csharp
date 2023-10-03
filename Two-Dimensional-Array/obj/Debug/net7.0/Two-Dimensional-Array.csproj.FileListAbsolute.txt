@@ -1,0 +1,15 @@
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.csproj.AssemblyReference.cache
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.AssemblyInfoInputs.cache
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.AssemblyInfo.cs
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.csproj.CoreCompileInputs.cache
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\bin\Debug\net7.0\Two-Dimensional-Array.exe
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\bin\Debug\net7.0\Two-Dimensional-Array.deps.json
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\bin\Debug\net7.0\Two-Dimensional-Array.runtimeconfig.json
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\bin\Debug\net7.0\Two-Dimensional-Array.dll
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\bin\Debug\net7.0\Two-Dimensional-Array.pdb
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.dll
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\refint\Two-Dimensional-Array.dll
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.pdb
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\Two-Dimensional-Array.genruntimeconfig.cache
+D:\Two-Dimensional-Array\Two-Dimensional-Array\Two-Dimensional-Array\obj\Debug\net7.0\ref\Two-Dimensional-Array.dll
